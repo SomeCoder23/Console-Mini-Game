@@ -8,7 +8,9 @@
 - **Space Bar**: Destroy certain barriers.
 - **X**: Exit or restart the game.
 
-Enjoy your adventure as a wizard and strive to reach the highest level possible!
+## Preview
+
+[![Watch the video!](https://github.com/SomeCoder23/WizardAdventure-ConsoleGame/blob/main/ScreenShot%20(2).png)](https://drive.google.com/file/d/1bFP_KujSKHaWXD-kgvXHK_hcbH-DqLR5/view?usp=sharing)
 
 ---
 I made this short game during my second year of University.
